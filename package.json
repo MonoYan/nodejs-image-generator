@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-image-generator",
+  "version": "1.0.0",
+  "description": "A web application that utilizes Node.js and OpenAI to produce images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev":"nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
