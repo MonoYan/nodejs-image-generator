@@ -1,5 +1,5 @@
 # nodejs-image-generator
-This web application that utilizes Node.js and OpenAI to produce images
+This web application that utilizes Node.js and OpenAI to produce images.
 
 <img src="public/img/demonstrate.gif" width="500">
 
